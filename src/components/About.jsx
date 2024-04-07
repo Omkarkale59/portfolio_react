@@ -13,22 +13,13 @@ const About = () => {
           </p>
         </div>
         <p className="text-xl mt-20">
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Vel
-          doloremque quo culpa temporibus voluptas voluptate, est quisquam
-          ipsam, repellat obcaecati animi rem illo aperiam exercitationem
-          ducimus facilis molestias mollitia fuga! Vel ullam sapiente harum unde
-          porro ratione velit possimus delectus, reiciendis nulla dicta aut,
-          quos cupiditate cumque dolorum quis deserunt.
+        I Am Currently a Graduating Student, Completed my BSc In Computer Science In 2023. I Am Enthusiastic About Pursuing a Career As a Front-End Developer. I Have Actively Worked On Personal Projects To Enhance My Skills And Bring Creativity To Web Development.
+          
         </p>
 
         <br />
         <p className="text-xl">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Nobis
-          dignissimos itaque ducimus odio veniam laborum. Delectus quo itaque
-          exercitationem sequi distinctio in. Nemo repellat cum quaerat
-          architecto reprehenderit ipsa, dolorem delectus voluptatum commodi
-          corrupti quis porro. Temporibus ad ipsam, accusamus, saepe voluptates
-          libero magni quaerat ipsa, minima officiis magnam vitae?
+          i'm Currently Looking for Frontend Devloper Role.
         </p>
       </div>
     </div>
