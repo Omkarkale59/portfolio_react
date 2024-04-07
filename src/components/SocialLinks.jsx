@@ -12,7 +12,8 @@ const SocialLinks = () => {
           <FaLinkedin size={30} />
         </>
       ),
-      href: "https://linkedin.com",
+      href: "https://www.linkedin.com/in/omkar-kale-650776244"
+      ,
       style: "rounded-tr-md",
     },
 
@@ -34,7 +35,7 @@ const SocialLinks = () => {
           <HiOutlineMail size={30} />
         </>
       ),
-      href: "mailto:foo@gmail.com",
+      href: "mailto:fooOmkarkale59@gmail.com",
     },
     {
       id: 4,
@@ -43,7 +44,7 @@ const SocialLinks = () => {
           Resume <BsFillPersonLinesFill size={30} />
         </>
       ),
-      href: "/resume.pdf",
+      href: "/Omkar_Kale_Resume1",
       style: "rounded-br-md",
       downlode: true,
     },
